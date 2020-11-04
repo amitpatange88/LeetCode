@@ -1,0 +1,10 @@
+C:\E\VS-Programs\LeetCode\LeetCode\bin\Debug\LeetCode.exe.config
+C:\E\VS-Programs\LeetCode\LeetCode\bin\Debug\LeetCode.exe
+C:\E\VS-Programs\LeetCode\LeetCode\bin\Debug\LeetCode.pdb
+C:\E\VS-Programs\LeetCode\LeetCode\bin\Debug\Algorithms.dll
+C:\E\VS-Programs\LeetCode\LeetCode\bin\Debug\Algorithms.pdb
+C:\E\VS-Programs\LeetCode\LeetCode\obj\Debug\LeetCode.csprojAssemblyReference.cache
+C:\E\VS-Programs\LeetCode\LeetCode\obj\Debug\LeetCode.csproj.CoreCompileInputs.cache
+C:\E\VS-Programs\LeetCode\LeetCode\obj\Debug\LeetCode.csproj.CopyComplete
+C:\E\VS-Programs\LeetCode\LeetCode\obj\Debug\LeetCode.exe
+C:\E\VS-Programs\LeetCode\LeetCode\obj\Debug\LeetCode.pdb

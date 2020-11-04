@@ -1,0 +1,6 @@
+C:\E\VS-Programs\LeetCode\Algorithms\bin\Debug\Algorithms.dll
+C:\E\VS-Programs\LeetCode\Algorithms\bin\Debug\Algorithms.pdb
+C:\E\VS-Programs\LeetCode\Algorithms\obj\Debug\Algorithms.csprojAssemblyReference.cache
+C:\E\VS-Programs\LeetCode\Algorithms\obj\Debug\Algorithms.csproj.CoreCompileInputs.cache
+C:\E\VS-Programs\LeetCode\Algorithms\obj\Debug\Algorithms.dll
+C:\E\VS-Programs\LeetCode\Algorithms\obj\Debug\Algorithms.pdb

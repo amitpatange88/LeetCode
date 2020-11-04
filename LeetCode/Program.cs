@@ -1,0 +1,22 @@
+﻿using Algorithms;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace LeetCode
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            A451 obj451 = new A451();
+            obj451.Run();
+
+
+
+            Console.ReadLine();
+        }
+    }
+}
